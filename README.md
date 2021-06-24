@@ -1,2 +1,3 @@
-# mario.c
+$./mario
+
 
